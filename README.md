@@ -3,7 +3,7 @@
 
 # 雌二醇凝胶（爱斯妥）自制教程
 
-*这个教程主要翻译自![Allie Castro的DIY Estrogel Guide](https://groups.io/g/MTFHRT/wiki/30843)，同时含有我自己制作时的一些经验和改进~~私货~~，并为了行文流畅删节了一些我主观认为不太重要的内容。*
+*这个教程主要翻译自[Allie Castro的DIY Estrogel Guide](https://groups.io/g/MTFHRT/wiki/30843)，同时含有我自己制作时的一些经验和改进~~私货~~，并为了行文流畅删节了一些我主观认为不太重要的内容。*
 
 ## 风险提示：
 1. **从网上购买的原料可能含有对人体有害的杂质，或者买到假货，影响你的HRT效果。**  
@@ -62,7 +62,7 @@
 睾酮：29 ng/dL
 雌二醇：326 pg/mL
 
-*推荐大家还是参照![]([mtf.wiki](https://mtf.wiki/zh-cn/docs/medicine/estrogen/gel/))的使用方式与用量，自己决定一下用量。注意这个自制凝胶的浓度是药店买到的的4倍，如果你不放心，把雌二醇的用量调整到配方的四分之一，就能得到和药店一模一样的浓度。*
+*推荐大家还是参照[]([mtf.wiki](https://mtf.wiki/zh-cn/docs/medicine/estrogen/gel/))的使用方式与用量，自己决定一下用量。注意这个自制凝胶的浓度是药店买到的的4倍，如果你不放心，把雌二醇的用量调整到配方的四分之一，就能得到和药店一模一样的浓度。*
 
 原作者的评价：这是一个很有前途的替代注射的方法，即使没有无尘室或加热消毒，由于它是以酒精为基础的，污染的风险也很低。对于害怕打针或因某种原因不想注射的人来说，这也是一个很好的选择。
 
@@ -70,6 +70,6 @@
 
 原作者的联系方式：owl@owl.haus
 Discord： Allie Castro#1234
-原文的![讨论区](https://groups.io/g/MTFHRT/topic/wiki_article_about_estrogel/93220481)
+原文的[讨论区](https://groups.io/g/MTFHRT/topic/wiki_article_about_estrogel/93220481)
 
-![我的Twitter](https://twitter.com/Celes_tium)
+[我的Twitter](https://twitter.com/Celes_tium)
