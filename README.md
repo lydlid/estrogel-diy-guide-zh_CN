@@ -80,6 +80,6 @@
 
 Apply [Creative Commons Zero v1.0 Universal License](https://raw.githubusercontent.com/lydlid/estrogel-diy-guide-zh_CN/main/LICENSE) for all contents temporarily, we're still trying to get the permission from [original author](mail://owl@owl.haus) to translate and publish it.
 
-Translated by [@lydlid](https://twitter.com/Celes_tium)
+Translated by [@Celes_tium](https://twitter.com/Celes_tium)
 
 [^1]: https://sci-hub.se/https://doi.org/10.1016/j.addr.2012.09.032
